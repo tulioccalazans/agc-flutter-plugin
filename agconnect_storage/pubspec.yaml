@@ -23,5 +23,5 @@ flutter:
       android:
         package: com.huawei.agconnect.cloudstorage
         pluginClass: AGCStoragePlugin
-      ios:
-        pluginClass: AGCStoragePlugin
+#      ios:
+#        pluginClass: AGCStoragePlugin

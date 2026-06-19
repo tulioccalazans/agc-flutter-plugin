@@ -23,5 +23,5 @@ flutter:
       android:
         package: com.huawei.agc.flutter.applinking
         pluginClass: AppLinkingPlugin
-      ios:
-        pluginClass: AppLinkingPlugin
+#      ios:
+#        pluginClass: AppLinkingPlugin

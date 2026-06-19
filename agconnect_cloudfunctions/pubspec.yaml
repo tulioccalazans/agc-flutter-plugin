@@ -23,5 +23,5 @@ flutter:
       android:
         package: com.huawei.agc.flutter.cloudfunctions
         pluginClass: AGCCloudFunctionsPlugin
-      ios:
-        pluginClass: AGCCloudFunctionsPlugin
+#      ios:
+#        pluginClass: AGCCloudFunctionsPlugin

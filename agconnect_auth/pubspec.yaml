@@ -23,5 +23,5 @@ flutter:
       android:
         package: com.huawei.agconnectauth
         pluginClass: AGConnectAuthPlugin
-      ios:
-        pluginClass: AGConnectAuthPlugin
+#      ios:
+#        pluginClass: AGConnectAuthPlugin
