@@ -23,5 +23,5 @@ flutter:
       android:
         package: com.huawei.agconnectcrash
         pluginClass: AGConnectCrashPlugin
-      ios:
-        pluginClass: AGConnectCrashPlugin
+#      ios:
+#        pluginClass: AGConnectCrashPlugin
